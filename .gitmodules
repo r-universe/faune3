@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "petitr"]
+	path = petitr
+	url = https://github.com/cran/petitr
+	shallow = true
+	registered = true
+[submodule "Rcriticor"]
+	path = Rcriticor
+	url = https://github.com/cran/Rcriticor
+	shallow = true
+	registered = true
