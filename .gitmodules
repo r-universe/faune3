@@ -5,6 +5,3 @@
 [submodule "Rcriticor"]
 	path = Rcriticor
 	url = https://github.com/cran/Rcriticor
-[submodule "petitr"]
-	path = petitr
-	url = https://github.com/cran/petitr
